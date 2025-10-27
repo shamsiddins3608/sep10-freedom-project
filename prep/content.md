@@ -22,9 +22,9 @@ Topic: **Construction**
 * BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully. <a href="https://www.autodesk.com/products/revit/overview">Autodesk</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a>
 
 * Construction Workers use Heavy Machinery like
-* Excavators. <img width="2048" height="1366" alt="image" src="https://github.com/user-attachments/assets/4ff25215-9b4e-4e53-919f-c72c18d081fb" />
+* Excavators. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/4ff25215-9b4e-4e53-919f-c72c18d081fb" />
 
-* Bulldozers. <img width="3008" height="2000" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
+* Bulldozers. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
 
 * Cranes.<br> <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
 
