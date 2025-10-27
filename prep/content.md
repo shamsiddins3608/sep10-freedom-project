@@ -26,7 +26,7 @@ Topic: **Construction**
 
 * Bulldozers. <img width="3008" height="2000" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
 
-* Cranes. <img width="864" height="572" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
+* Cranes.<br> <img width="864" height="572" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
 
 * Dump Trucks. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/82dab4c4-a3d8-4ba4-a46b-0dde2034a297" />
 
