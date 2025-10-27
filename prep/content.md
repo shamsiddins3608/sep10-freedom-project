@@ -32,7 +32,7 @@ Used to push large amount of soil.
 Used to move large things like cement up or down.
 
 * Dump Trucks. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/82dab4c4-a3d8-4ba4-a46b-0dde2034a297" />
-Used to bring materials for construction.</b>hhhh
+Used to bring materials for construction.</b>
 
 
   
