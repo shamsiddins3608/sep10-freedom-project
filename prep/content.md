@@ -16,7 +16,7 @@ Topic: **Construction**
 ## Part A: existing technology
 * RTX Pro series graphics cards
   * Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
-  * [<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/62a61844-220a-43b7-aae9-7536221bc439" />
+  * [<img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/62a61844-220a-43b7-aae9-7536221bc439" />
 ]([(https://www.nvidia.com/content/dam/en-zz/Solutions/data-center/rtx-pro-6000-blackwell-workstation-edition/nvidia-geforce-rtx-pro-6000-og-1200x630.jpg))
 
 * BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully. <a href="https://www.autodesk.com/products/revit/overview">Autodesk</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a>
