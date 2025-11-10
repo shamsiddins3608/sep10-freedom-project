@@ -28,7 +28,7 @@ Used to dig out areas for buildings.
 * Bulldozers. <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
 Used to push large amount of soil.
 
-* Cranes.<br> <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
+* Cranes.<br> <img width="1000" height="auto" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
 Used to move large things like cement up or down.
 
 * Dump Trucks. <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/82dab4c4-a3d8-4ba4-a46b-0dde2034a297" />
