@@ -22,16 +22,16 @@ Topic: **Construction**
 * BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully. <a href="https://www.autodesk.com/products/revit/overview">Autodesk</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a>
 
 * <h1> Construction Workers use Heavy Machinery like </h1>
-* <b>Excavators. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/4ff25215-9b4e-4e53-919f-c72c18d081fb" />
+* <b>Excavators. <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/4ff25215-9b4e-4e53-919f-c72c18d081fb" />
 Used to dig out areas for buildings.
 
-* Bulldozers. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
+* Bulldozers. <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/ef060cbf-dac0-4b53-8062-18c3f19f4d56" />
 Used to push large amount of soil.
 
-* Cranes.<br> <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
+* Cranes.<br> <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/fd5840e2-4eb6-4f0f-ac6a-1edfa8e1b20e" />
 Used to move large things like cement up or down.
 
-* Dump Trucks. <img width="1600" height="1066" alt="image" src="https://github.com/user-attachments/assets/82dab4c4-a3d8-4ba4-a46b-0dde2034a297" />
+* Dump Trucks. <img width="900" height="auto" alt="image" src="https://github.com/user-attachments/assets/82dab4c4-a3d8-4ba4-a46b-0dde2034a297" />
 Used to bring materials for construction.</b>
 
 
