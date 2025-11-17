@@ -9,7 +9,7 @@ Topic: **Construction**
 
 **Categories:**
 
-**Least Complex**
+**Least Complex:**
 <div>
   Construction Software
   Apps looked into: <a href="https://www.autodesk.com/products/autocad/overview">AutoDesk</a>, <a href="https://sketchup.trimble.com/en?srsltid=AfmBOooV392iJp07fJ_9oipSfhiplsvJrt9ihrW-lK_nA2OAsj_W3wK2">Sketchup</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a> <br>
@@ -18,12 +18,12 @@ Topic: **Construction**
   BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully.
   </div>
   <br>
-__Mildly Complex__
+**Mildly Complex:**
 <div>
  <a href="https://en.wikipedia.org/wiki/Graphics_card"> Graphics Cards</a> <br>
   Findings: Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
 </div>
-**Most Complex**
+**Most Complex:**
 <div>
   Simulation Abilities: The best simulation software is capable of analyzing building structure, energy usage, air flow, lighting, and construction sequence simulation (4D, 5D simulations).
 
