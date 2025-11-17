@@ -19,7 +19,7 @@ Topic: **Construction**
   </div>
   <br>
 *Mildly Complex
- <a href="https://en.wikipedia.org/wiki/Graphics_card">Graphics Cards
+ <a href="https://en.wikipedia.org/wiki/Graphics_card">Graphics Cards <br>
   Findings: Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
 *Most Complex
 
