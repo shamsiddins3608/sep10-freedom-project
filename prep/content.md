@@ -22,7 +22,7 @@ Mildly Complex:
 <a href="https://en.wikipedia.org/wiki/Graphics_card"> Graphics Cards</a> <br>
 Findings: Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
 
-Most Complex:
+**Most Complex:**
 <br>
 Simulation Abilities: The best simulation software is capable of analyzing building structure, energy usage, air flow, lighting, and construction sequence simulation (4D, 5D simulations).
 
