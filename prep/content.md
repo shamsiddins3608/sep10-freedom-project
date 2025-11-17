@@ -18,7 +18,7 @@ Topic: **Construction**
   BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully.
   </div>
   <br>
-**Mildly Complex**
+__Mildly Complex__
 <div>
  <a href="https://en.wikipedia.org/wiki/Graphics_card"> Graphics Cards</a> <br>
   Findings: Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
