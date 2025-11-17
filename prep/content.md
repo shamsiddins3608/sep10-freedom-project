@@ -12,9 +12,9 @@ Topic: **Construction**
 *Least Complex
 <div>
   Construction Software
-  Apps looked into: <a href="https://www.autodesk.com/products/autocad/overview">AutoDesk</a>, <a href="https://sketchup.trimble.com/en?srsltid=AfmBOooV392iJp07fJ_9oipSfhiplsvJrt9ihrW-lK_nA2OAsj_W3wK2">Sketchup</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a>
-  Findings: These 3D modeling software are used to simulate if buildings would collapese or not, before actually building it.
-  It makes construction safer because they will know that the building wont collapse when building.
+  Apps looked into: <a href="https://www.autodesk.com/products/autocad/overview">AutoDesk</a>, <a href="https://sketchup.trimble.com/en?srsltid=AfmBOooV392iJp07fJ_9oipSfhiplsvJrt9ihrW-lK_nA2OAsj_W3wK2">Sketchup</a>, <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a> <br>
+  Findings: These 3D modeling software are used to simulate if buildings would collapese or not, before actually building it. <br>
+  It makes construction safer because they will know that the building wont collapse when building. <br>
   BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure that the project goes succesfully.
   </div>
   <br>
