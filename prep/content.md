@@ -19,8 +19,16 @@ Topic: **Construction**
   </div>
   <br>
 *Mildly Complex
+<div>
  <a href="https://en.wikipedia.org/wiki/Graphics_card"> Graphics Cards</a> <br>
   Findings: Multiple 3d construction apps use pro series graphics cards. They are engineered for reliability, featuring more VRAM and larger caches, which is crucial for handling large and complex models in architectural visualizations.
+</div>
 *Most Complex
+Simulation Abilities: The best simulation software is capable of analyzing building structure, energy usage, air flow, lighting, and construction sequence simulation (4D, 5D simulations).
+
+Computing Requirements: The computing resources required by these platforms include high-end workstations, cloud computing resources, and GPUs capable of handling big data and simulations, such as point cloud processing and reality capture from drone and laser scan data.
+
+Artificial Intelligence & Automation: Some of the best solutions employ artificial intelligence to detect clashes, optimize design, and use predictive modeling to identify and resolve problems automatically prior to construction.
+
 
   
