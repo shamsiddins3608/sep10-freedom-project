@@ -5,7 +5,7 @@ Topic: **Construction**
 * 3D modeling software is used to simulate building articheture.
 * 3D modeling software helps people to construct buildings to see if they winstand something, and it is used in architecture and interior design
 
-## Part A: existing technology
+## Part A: Existing Technology
 
 **Categories:**
 
@@ -30,5 +30,22 @@ Computing Requirements: The computing resources required by these platforms incl
 
 Artificial Intelligence & Automation: Some of the best solutions employ artificial intelligence to detect clashes, optimize design, and use predictive modeling to identify and resolve problems automatically prior to   construction.
 
+## Part B: Future Technology
 
+CONSTRUCTION
+
+* Holographic Building Schematic
+  * You can use a projector or special glasses that show the holograph of the building.
+  * You can make it so that you only see one part of the holograph.
+  * You can see what things are in its wrong place.
+
+* Safety Boots
+  * If you fall from a high place when building, it uses a special sensor to detect it, and slow down your fall.
+  * You can adjust the size of the shoes.
+  * You can make the shoes any design you'd like.
+
+* Special Glasses
+  * You can use your imagination to edit the schematic of the building.
+  * You can use it to protect your eyes.
+  * You can use it to see how much materials you need to build something.
   
