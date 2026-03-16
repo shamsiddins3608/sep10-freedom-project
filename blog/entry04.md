@@ -2,6 +2,8 @@
 ##### 3/15/26
 
 For my freedom project i will choose getskeleton. It is a lightweight boilerpoint at 400 lines of code. It is really easy to set up. It makes it possible for mobile devices to access the website too. For my backup tool i will chose aframe because it is a very cool tool to see objects in 3d and to make a mini game inside it. 
+![The Grid](../grid-lines.png)
+
 <pre class="code-example"><code class="code-example-body prettyprint">&lt;!-- .container is main centered wrapper --&gt;
 &lt;div class="container"&gt;
 
