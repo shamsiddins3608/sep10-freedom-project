@@ -1,11 +1,11 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: **Get Skeleton**
 
 ---
 
-### X/X/XX:
-* Text
+### 3/16/26:
+* Get Skeleton is a boilerpoint meaning that its a start to your website that provides code like getbootstrap. It is a lightweight code at about 400 lines. It also makes your website mobile friendly. I watched 3 minutes of how to setup and install it. [https://www.youtube.com/watch?v=NUe-ANDvIjg](Youtube)
 
 ### X/X/XX:
 * Text
