@@ -37,6 +37,7 @@ Code:
 ![Forms](../img/forms.png)
 <br>
 Code:
+<br>
 <code class="code-example-body prettyprint">&lt;!-- The above form looks like this --&gt;
 &lt;form&gt;
   &lt;div class="row"&gt;
