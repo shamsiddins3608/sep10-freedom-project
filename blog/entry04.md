@@ -3,7 +3,7 @@
 
 For my freedom project i will choose getskeleton. It is a lightweight boilerpoint at 400 lines of code. It is really easy to set up. It makes it possible for mobile devices to access the website too. For my backup tool i will chose aframe because it is a very cool tool to see objects in 3d and to make a mini game inside it. 
 ![The Grid](../grid-lines.png)
-
+Code:
 <pre class="code-example"><code class="code-example-body prettyprint">&lt;!-- .container is main centered wrapper --&gt;
 &lt;div class="container"&gt;
 
@@ -34,6 +34,7 @@ For my freedom project i will choose getskeleton. It is a lightweight boilerpoin
 &lt;!-- Note: columns can be nested, but it's not recommended since Skeleton's grid has %-based gutters, meaning a nested grid results in variable with gutters (which can end up being *really* small on certain browser/device sizes) --&gt;
 </code>
 </pre>
+
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
