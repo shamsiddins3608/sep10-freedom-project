@@ -35,6 +35,8 @@ Code:
 </code>
 </pre>
 ![Forms](../img/forms.png)
+<br>
+Code:
 <code class="code-example-body prettyprint">&lt;!-- The above form looks like this --&gt;
 &lt;form&gt;
   &lt;div class="row"&gt;
