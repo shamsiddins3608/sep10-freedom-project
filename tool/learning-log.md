@@ -15,7 +15,10 @@
 * I want to learn how i can see what people sumbitted on the form
 
  ### 4/13/26:
-* Text
+* I used tables property from get skeleton.
+* Tables can be used to store information about a person like where they live, age, gender, name, and more.
+* Tables are pretty customizable and easy to use
+* You can change its color, and font.
 
 ### X/X/XX:
 * Text
