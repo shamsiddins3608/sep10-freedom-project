@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-## Tool: **Afra,e**
+## Tool: **Aframe**
 
 ---
 
