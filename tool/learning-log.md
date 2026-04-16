@@ -1,27 +1,28 @@
 # Tool Learning Log
 
-## Tool: **Get Skeleton**
+## Tool: **Afra,e**
 
 ---
 
-### 3/16/26:
-* Get Skeleton is a boilerpoint meaning that its a start to your website that provides code like getbootstrap. It is a lightweight code at about 400 lines. It also makes your website mobile friendly. I watched 3 minutes of how to setup and install it. [https://www.youtube.com/watch?v=NUe-ANDvIjg](Youtube)
+### 4/15/26
+* Aframe is a very cool open-source web framework for building virtual reality and augmented reality experiences. I tinkered with it by watching this [Playlist](https://www.youtube.com/playlist?list=PLWkWuhMLkR7D_VSEMkj45NIgF8i2dlUce) on youtube which teaches the fundementals, and elements of aframe.
 
-### 3/30/26:
-* I tinkered by trying to use get skeleton.
-* Get skeleton offers forms which can be used in your website.
-* I tried using get skeletom forms in jsbin.
-* it was pretty easy to understand how it works.
-* I want to learn how i can see what people sumbitted on the form
+## Planning for the next three days
 
- ### 4/13/26:
-* I used tables property from get skeleton.
-* Tables can be used to store information about a person like where they live, age, gender, name, and more.
-* Tables are pretty customizable and easy to use
-* You can change its color, and font.
+### 4/16/26
+* I will test out the code of aframe and try to make objects to see if it works.
+* I will check out the source code to see how aframe works.
+* I will add aframe to my freedom project.
 
-### X/X/XX:
-* Text
+### 4/17/26
+* I will try different colors, objects, and see if i can put text.
+* I will look at somebodys' aframe project for inspiration.
+* I will try to experiment with my ideas from part B.
+
+### 4/18/26
+* I will try to experiment with different textures, meshes, and animations if possible.
+* I will ask others for feedback.
+* I will try to make the aframe scene like in a construction.
 
 
 
