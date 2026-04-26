@@ -8,6 +8,8 @@
   <a-sphere src="https://raw.githubusercontent.com/aframevr/sample-assets/master/assets/images/space/earth_atmos_4096.jpg" radius="4"
             segments-height="84">
 ```
+The [geometry](https://aframe.io/docs/1.7.0/components/geometry.html) component provides a basic shape for an objecy.
+<img src="https://github.com/aframevr/aframe/assets/57718207/38e649bb-23c3-4a16-b0a2-cc34c33c1cca" alt="Geometry" width="100" height="200"
 
 [Previous](entry04.md) | [Next](entry06.md)
 
