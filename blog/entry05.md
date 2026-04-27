@@ -4,7 +4,7 @@
 * Aframe is a very cool open-source web framework for building virtual reality and augmented reality experiences. I added aframe to my project, and I read more about aframe on this [Guide](https://aframe.io/docs/1.5.0/introduction/) and learned that A-Frame is optimized from the ground up for WebVR. While A-Frame uses the DOM, its elements don’t touch the browser layout engine. A-Frame is a powerful three.js framework, providing a declarative, composable, reusable entity-component
 structure.
 
-* While building my aframe scene, i ran into many challanges. The physics system wasnt working because the aframe version was old. So i had to use the animation system to make the plane fall down instead. I also had elements outside of the `<a-scene>` which didnt add some things like the sky wasnt working.
+* While building my aframe scene, i ran into many challanges. The physics, and particle system wasnt working because i forgot to include the `<script src>`. I also had elements outside of the `<a-scene>` which broke some things like the sky wasnt working.
 
 * The [Geometry](https://aframe.io/docs/1.7.0/components/geometry.html) component provides a basic shape for an entity, which is provided by the geometry component. The general shape is defined by the primitive attribute. In computer graphics, geometric primitives are the simplest shapes that cannot be broken down further. To build a complete mesh, a material component is usually paired with the shape to give it an appearance. Common 2D primitives include points, lines, and polygons (rectangles, circles), while 3D primitives (volumetric) include boxes/bricks, spheres, cylinders, cones, and tori.
 
