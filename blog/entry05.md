@@ -66,8 +66,6 @@ structure.
 
 * You can add a full environment in one line using the `environment` component which include `forest`, `starry`, `volcano`, `japan` and more
 ```bash
-<script src="https://unpkg.com/aframe-environment-component/dist/aframe-environment-component.min.js"></script>
-
 <a-entity environment="preset: forest"></a-entity>
 <a-entity environment="preset: starry"></a-entity>
 <a-entity environment="preset: volcano"></a-entity>
