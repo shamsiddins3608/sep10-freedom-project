@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](mobile.png)
-* [Desktop](desktop.png)
+* [Mobile](../img/mobile.png)
+* [Desktop](../img/desktop.png)
 
 ## Colors
 * `#03045eff;`
