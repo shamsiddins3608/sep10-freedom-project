@@ -22,13 +22,13 @@
 
 #### MVP
 
-* First, i will start with the desktop version of the website because its easier.
+* Bootstrap: Navbar, Accordion, Carousel, Navs & Tabs
 
 ---
 
 #### Beyond MVP
 
-* Task
+*
 
 
 
@@ -37,7 +37,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
