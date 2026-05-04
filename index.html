@@ -15,30 +15,55 @@
 
     <title>Shamsiddin Shamsiev</title>
     <style>
-      :root { --navy: #03045e; }
+      body {
+        background-color: #caf0f8;
+        color: #03045e;
+        font-family: 'Cossette Texte', sans-serif;
+        font-weight: 400;
+      }
 
-      body { background-color: #fff; font-family: 'Cossette Texte', sans-serif; font-weight: 400; }
+      html {
+        scroll-behavior: smooth;
+      }
 
-      .navbar { background-color: var(--navy) !important; padding: 0.5rem 1.25rem; }
+      a {
+        color: #0077b6;
+      }
+
+      .navbar {
+        background-color: #03045e !important;
+        padding: 0.5rem 1.25rem;
+      }
+
       .navbar-brand pre {
-        font-size: 9px; line-height: 11px; margin: 0;
-        color: #fff; font-family: monospace;
+        font-size: 9px;
+        line-height: 11px;
+        margin: 0;
+        color: #caf0f8;
+        font-family: monospace;
       }
-      .nav-link {
-        color: rgba(255,255,255,0.75) !important;
-        font-size: 1.1rem; padding: 0.4rem 0.75rem !important; transition: color 0.2s;
-      }
-      .nav-link:hover, .nav-link.active { color: #fff !important; }
 
-      html { scroll-behavior: smooth; }
+      .nav-link {
+        color: #ade8f4 !important;
+        font-size: 1.1rem;
+        padding: 0.4rem 0.75rem !important;
+      }
+
+      .nav-link:hover,
+      .nav-link.active {
+        color: #ffffff !important;
+      }
 
       .hero {
-        width: 100%; max-width: 900px;
+        width: 100%;
+        max-width: 900px;
         margin: 3rem auto;
-        background-color: #d9d9d9;
+        background-color: #023e8a;
+        color: #caf0f8;
         border-radius: 6px;
         padding: 3rem;
-        font-size: 0.88rem; color: #222; line-height: 1.6;
+        font-size: 0.88rem;
+        line-height: 1.6;
       }
 
       .two-col {
@@ -51,14 +76,39 @@
       }
 
       .section-title {
-        font-size: 1.8rem; font-weight: 700;
-        letter-spacing: 0.08em; text-transform: uppercase;
-        margin-bottom: 2rem; color: #111;
+        font-size: 1.8rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        margin-bottom: 2rem;
+        color: #03045e;
       }
 
-      .placeholder-block { margin-bottom: 2rem; }
-      .placeholder-block .placeholder {
-        border-radius: 3px; background-color: #333 !important; opacity: 1; margin-bottom: 6px;
+      .content-block {
+        margin-bottom: 2rem;
+        background-color: #90e0ef;
+        padding: 1rem;
+        border-radius: 6px;
+      }
+
+      .content-block h3 {
+        font-size: 1rem;
+        font-weight: 700;
+        margin-bottom: 0.5rem;
+        color: #023e8a;
+      }
+
+      .content-block p {
+        font-size: 0.9rem;
+        color: #03045e;
+        line-height: 1.6;
+      }
+
+      .content-block img {
+        width: 100%;
+        border-radius: 6px;
+        margin-top: 0.75rem;
+        border: 4px solid #48cae4;
       }
 
       .aframe-section {
@@ -72,27 +122,39 @@
       }
 
       .aframe-image {
-        width: 100%; aspect-ratio: 4/3;
-        background-color: #d9d9d9;
+        width: 100%;
+        aspect-ratio: 4/3;
+        background-color: #0077b6;
         border-radius: 6px;
-        display: flex; align-items: center; justify-content: center;
-        color: #aaa; font-size: 3rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #caf0f8;
+        font-size: 3rem;
       }
 
       .aframe-content h2 {
-        font-size: 1.8rem; font-weight: 700;
-        color: #03045e; margin-bottom: 1rem;
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: #0096c7;
+        margin-bottom: 1rem;
       }
 
       .aframe-content p {
-        font-size: 0.95rem; color: #333; margin-bottom: 1.5rem;
+        font-size: 0.95rem;
+        color: #023e8a;
+        margin-bottom: 1.5rem;
       }
 
       .aframe-btn {
-        background-color: #333; color: #fff;
-        padding: 0.5rem 1.2rem; border: none;
-        font-size: 0.85rem; cursor: pointer;
-        text-decoration: none; display: inline-block;
+        background-color: #00b4d8;
+        color: #03045e;
+        padding: 0.5rem 1.2rem;
+        border: none;
+        font-size: 0.85rem;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
       }
 
       footer {
@@ -100,13 +162,30 @@
         padding: 2rem 1.5rem;
         display: flex;
         justify-content: center;
+        align-items: center;
         gap: 4rem;
-        border-top: 1px solid #eee;
+        background-color: #03045e;
       }
 
-      footer .logo { font-weight: 700; font-size: 1.1rem; }
-      footer a { color: #333; text-decoration: none; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.05em; }
-      footer a:hover { text-decoration: underline; }
+      footer pre {
+        font-size: 9px;
+        line-height: 11px;
+        margin: 0;
+        font-family: monospace;
+        color: #caf0f8;
+      }
+
+      footer a {
+        color: #ade8f4;
+        text-decoration: none;
+        font-size: 0.95rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
     </style>
   </head>
   <body>
@@ -121,81 +200,132 @@
  ___/ / / / / /_/ / / / / / /
 /____/_/ /_/\__,_/_/ /_/ /_/</pre>
         </a>
-        <a href="#" class="btn btn-light btn-sm">Button</a>
+        <ul class="nav">
+          <li class="nav-item"><a class="nav-link" href="#part-a">Part A</a></li>
+          <li class="nav-item"><a class="nav-link" href="#part-b">Part B</a></li>
+          <li class="nav-item"><a class="nav-link" href="#aframe">A-Frame</a></li>
+        </ul>
       </div>
     </nav>
 
     <div class="hero">
       3D modeling software is used to simulate building architecture.
       3D modeling software helps people to construct buildings to see if they withstand something,
-      and it is used in architecture and interior design. Lorem ipsum dolor sit amet et delectus
-      accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit
-      dissentiet eos cu eum an brute copiosae hendrerit. Eos erant dolorum an. Per facer affert ut.
+      and it is used in architecture and interior design.
     </div>
 
     <div class="two-col">
 
       <div>
         <h2 id="part-a" class="section-title">Part A</h2>
-        <div class="placeholder-block">
-          <p class="placeholder-glow mb-1">
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-8"></span>
+
+        <div class="content-block">
+          <h3>Construction Software (Least Complex)</h3>
+          <p>
+            Apps looked into: <a href="https://www.autodesk.com/products/autocad/overview">AutoDesk</a>,
+            <a href="https://sketchup.trimble.com/en">Sketchup</a>,
+            <a href="https://www.autodesk.com/products/navisworks/3d-viewers">Navisworks</a><br><br>
+            These 3D modeling software are used to simulate if buildings would collapse or not, before actually building it.
+            It makes construction safer because they will know that the building won't collapse when building.
+            BIM specialists use software to create, manage, and coordinate digital models of buildings and infrastructure
+            which use hardware like computers, graphics cards, and use software like Autodesk and Navisworks to ensure
+            that the project goes successfully.
           </p>
+          <img src="https://damassets.autodesk.net/content/dam/autodesk/draftr/29880/acad-fy25autodesk-assistant1.png" alt="AutoDesk" />
         </div>
-        <div class="placeholder-block">
-          <p class="placeholder-glow mb-1">
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-8"></span>
+
+        <div class="content-block">
+          <h3><a href="https://en.wikipedia.org/wiki/Graphics_card">Graphics Cards</a> (Mildly Complex)</h3>
+          <p>
+            Multiple 3D construction apps use pro series graphics cards. They are engineered for reliability,
+            featuring more VRAM and larger caches, which is crucial for handling large and complex models
+            in architectural visualizations.
+          </p>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/AMD_RX_6900XT_.jpg/2560px-AMD_RX_6900XT.jpg" alt="Graphics Card" />
+        </div>
+
+        <div class="content-block">
+          <h3>Simulation Abilities (Most Complex)</h3>
+          <p>
+            The best simulation software is capable of analyzing building structure, energy usage, air flow,
+            lighting, and construction sequence simulation (4D, 5D simulations). The computing resources required
+            include high-end workstations, cloud computing resources, and GPUs capable of handling big data and
+            simulations, such as point cloud processing and reality capture from drone and laser scan data.
+            Some of the best solutions employ artificial intelligence to detect clashes, optimize design, and use
+            predictive modeling to identify and resolve problems automatically prior to construction.
           </p>
         </div>
       </div>
 
       <div>
         <h2 id="part-b" class="section-title">Part B</h2>
-        <div class="placeholder-block">
-          <p class="placeholder-glow mb-1">
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-8"></span>
+
+        <div class="content-block">
+          <h3>Holographic Building Schematic</h3>
+          <p>
+            You can use a projector or special glasses that show the holograph of the building.
+            You can make it so that you only see one part of the holograph.
+            You can see what things are in the wrong place.
           </p>
         </div>
-        <div class="placeholder-block">
-          <p class="placeholder-glow mb-1">
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-12"></span>
-            <span class="placeholder col-8"></span>
+
+        <div class="content-block">
+          <h3>Safety Boots</h3>
+          <p>
+            If you fall from a high place when building, it uses a special sensor to detect it and slow down your fall.
+            You can adjust the size of the shoes.
+            You can make the shoes any design you'd like.
+          </p>
+        </div>
+
+        <div class="content-block">
+          <h3>Special Glasses</h3>
+          <p>
+            You can use your imagination to edit the schematic of the building.
+            You can use it to protect your eyes.
+            You can use it to see how much materials you need to build something.
           </p>
         </div>
       </div>
 
     </div>
 
-    <div class="aframe-section">
-      <div class="aframe-image">🖼</div>
-      <div class="aframe-content">
-        <h2>Aframe</h2>
-        <p>Lorem ipsum dolor sit amet et delectus accommodare his consul copiosae legendos at vix ad putent delectus delicata usu. Vidit dissentiet eos cu eum an brute copiosae hendrerit.</p>
-        <a href="#" class="aframe-btn">AFRAME LINK</a>
-      </div>
-    </div>
+    <div class="aframe-section" id="aframe">
+  <div class="aframe-image" style="aspect-ratio: 4/3; border-radius: 6px; overflow: hidden;">
+    <a-scene embedded style="width:100%; height:100%;" vr-mode-ui="enabled: false" background="color: #1a1a2e">
+
+      <a-light type="ambient" intensity="0.4"></a-light>
+      <a-light type="directional" position="2 4 3" intensity="1.2" color="#fff"></a-light>
+      <a-light type="point" position="-2 2 2" intensity="0.6" color="#4fc3f7"></a-light>
+
+      <a-box position="0 -0.6 0" width="1.4" height="0.18" depth="0.55" color="#222"></a-box>
+      <a-box position="-0.38 -0.45 0" width="0.3" height="0.18" depth="0.52" color="#1a1a1a"></a-box>
+      <a-box position="0.1 -0.15 0" width="1.1" height="0.7" depth="0.5" color="#FF6600"></a-box>
+      <a-box position="0 0.45 0" width="0.72" height="0.7" depth="0.46" color="#FF6600"></a-box>
+      <a-sphere position="0.58 -0.18 0" radius="0.28" color="#888" scale="1 0.7 0.9"></a-sphere>
+      <a-box position="0.18 0.42 0.21" width="0.38" height="0.65" depth="0.04" color="#cc5200"></a-box>
+      <a-box position="0.18 0.22 0.24" width="0.34" height="0.03" depth="0.02" color="#fff"></a-box>
+      <a-box position="0.18 0.34 0.24" width="0.34" height="0.03" depth="0.02" color="#fff"></a-box>
+      <a-box position="0.18 0.46 0.24" width="0.34" height="0.03" depth="0.02" color="#fff"></a-box>
+      <a-box position="0.18 0.58 0.24" width="0.34" height="0.03" depth="0.02" color="#fff"></a-box>
+      <a-box position="0.18 0.70 0.24" width="0.34" height="0.03" depth="0.02" color="#fff"></a-box>
+      <a-sphere position="-0.32 -0.3 0.27" radius="0.07" color="#00e5ff" material="emissive: #00e5ff; emissiveIntensity: 0.8"></a-sphere>
+      <a-sphere position="-0.32 -0.3 0.27" radius="0.1" color="#00e5ff" material="opacity: 0.2; transparent: true"></a-sphere>
+      <a-plane position="0 -0.7 0" rotation="-90 0 0" width="6" height="6" color="#111" material="opacity: 0.9"></a-plane>
+
+      <a-entity id="rig" position="0 0.2 0">
+        <a-camera look-controls="enabled: true" wasd-controls="enabled: true" position="0 0.5 3.2"></a-camera>
+      </a-entity>
+
+    </a-scene>
+  </div>
+  <div class="aframe-content">
+    <h2>Aframe</h2>
+    <p>A futuristic safety boot with a built-in fall-detection sensor (glowing blue). If you fall from a height, the sensor activates to slow your fall. Fully adjustable size and custom design.</p>
+  </div>
+</div>
 
     <footer>
-      <a href="https://shamsiddins3608.github.io/" class="logo">
         <pre>
    _____ __
   / ___// /_  ____ _____ ___
@@ -203,8 +333,10 @@
  ___/ / / / / /_/ / / / / / /
 /____/_/ /_/\__,_/_/ /_/ /_/</pre>
       </a>
-      <a href="https://github.com/shamsiddins3608/sep10-freedom-project">SOURCE</a>
-      <a href="https://shamsiddins3608.github.io/">PORTFOLIO</a>
+      <a href="https://github.com/shamsiddins3608/sep10-freedom-project" style="
+    padding-top: 25px;">SOURCE</a>
+      <a href="https://shamsiddins3608.github.io/" style="
+    padding-top: 25px;">PORTFOLIO</a>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
