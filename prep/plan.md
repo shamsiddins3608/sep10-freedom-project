@@ -23,13 +23,13 @@
 #### MVP
 
 * Bootstrap: Navbar, Navs & Tabs
-Make part A and part B side by side. make navbar. add a footer. make the boot that slows down your fall in aframe.
+* Make part A and part B side by side. make navbar. add a footer. make the boot that slows down your fall in aframe.
 
 ---
 
 #### Beyond MVP
 
-*
+* Make the website colorful. add more bootstrap components
 
 
 
