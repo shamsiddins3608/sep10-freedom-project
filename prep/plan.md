@@ -22,7 +22,8 @@
 
 #### MVP
 
-* Bootstrap: Navbar, Accordion, Carousel, Navs & Tabs
+* Bootstrap: Navbar, Navs & Tabs
+Make part A and part B side by side. make navbar. add a footer. make the boot that slows down your fall in aframe.
 
 ---
 
