@@ -42,7 +42,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Jia | I like the organization of your project, it contains margins between sections and it also isn't clattered around into unorganized text.  | Something I would suggest is to illustrate a seperation between Part A and B more clearly. |
-|  |  |  |
+| Annabella | I love the "Sham" logo you have going on amd the colorsceme doesn't look blinding, making it apealing to the eye. | In a smaller screen size, the aframe window looks awkward and skinny. If it possible for you to make it longer horizontally rather vertically. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
