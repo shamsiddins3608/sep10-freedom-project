@@ -36,13 +36,12 @@
 
 
 
-<!-- DO NOT USE THIS YET
 
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Jia | I like the organization of your project, it contains margins between sections and it also isn't clattered around into unorganized text.  | Something I would suggest is to illustrate a seperation between Part A and B more clearly. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
