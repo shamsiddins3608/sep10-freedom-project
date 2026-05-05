@@ -16,7 +16,7 @@
 `#caf0f8ff;`
 
 ## Fonts
-* [Google Sans](https://fonts.google.com/specimen/Google+Sans)
+* [Google Sans](https://fonts.google.com/specimen/Cossette+Texte?preview.script=Latn)
 
 ## Timeline
 
