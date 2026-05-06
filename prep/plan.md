@@ -29,7 +29,7 @@
 
 #### Beyond MVP
 
-* Make the website colorful. add more bootstrap components
+* Add much more bootstrap components, add animations
 
 
 
