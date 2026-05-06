@@ -29,7 +29,9 @@
 
 #### Beyond MVP
 
-* Add much more bootstrap components, add animations
+* Add much more bootstrap components, add animations.
+* Fix the Aframe on the mobile version of the website.
+* Seperate Part A and Part B a bit more.
 
 
 
